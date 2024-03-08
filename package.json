@@ -4,7 +4,7 @@
   "description": "Plan para almacenar el projecto de asincronismo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AndresVergara28/project-async/issues"
   },
-  "homepage": "https://github.com/AndresVergara28/project-async#readme"
+  "homepage": "https://github.com/AndresVergara28/project-async#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
