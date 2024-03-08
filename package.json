@@ -1,0 +1,27 @@
+{
+  "name": "project-async",
+  "version": "1.0.0",
+  "description": "Plan para almacenar el projecto de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresVergara28/project-async.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "async",
+    "fetch",
+    "await"
+  ],
+  "author": "Andres Vergara <pipevergara28@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresVergara28/project-async/issues"
+  },
+  "homepage": "https://github.com/AndresVergara28/project-async#readme"
+}
